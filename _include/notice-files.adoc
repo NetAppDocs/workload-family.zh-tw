@@ -1,0 +1,9 @@
+= 
+:allow-uri-read: 
+
+
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-notice.pdf["工作負載工廠"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-databases-notice.pdf["適用於資料庫的 Workload Factory"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-genai-notice.pdf["GenAI 的工作負載工廠"^]
+* https://docs.netapp.com/us-en/workload-family/media/workload-factory-vmware-notice.pdf["VMware 工作負載工廠"^]
+

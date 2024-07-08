@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<blocks>
+  <block id="6a7b2c9c4cec65ad972b108fa0a1192b" category="doc">取得適用於 ONTAP 的 FSX 支援</block>
+  <block id="3c6efe0ce159fb5b8ee4882bcf3ad973" category="paragraph">NetApp 以多種方式支援工作負載工廠及其雲端服務。我們全年無休提供豐富的免費自助支援選項、例如知識庫（KB）文章和社群論壇。您的支援註冊包括透過網路票證提供遠端技術支援。</block>
+  <block id="4435b263dd1a35bcd8dfda050db92b3b" category="paragraph">如需與適用於 ONTAP 的 FSX 、其基礎架構或使用服務的任何解決方案相關的技術支援、請參閱該產品的工作負載工廠文件中的「取得說明」。</block>
+  <block id="18cf072964a583150dd247485ba75b92" category="inline-link-macro">Amazon FSX for ONTAP Sf</block>
+  <block id="9d06990508d25d367d9158c6558eb9c8" category="paragraph"><block ref="9d06990508d25d367d9158c6558eb9c8" category="inline-link-macro-rx"></block></block>
+  <block id="35f9849ffdd809bda11d0fc56e1e3583" category="paragraph">若要獲得工作負載工廠及其儲存解決方案與服務的專屬技術支援、請使用下列支援選項。</block>
+  <block id="edd15fbeb7b2dffa163336ecd4f3e80c" category="section-title">使用自我支援選項</block>
+  <block id="5e4b821a1a82558dead1ef6961e90666" category="paragraph">這些選項可供免費使用、一天24小時、一週7天：</block>
+  <block id="5b6cf869265c13af8566f192b4ab3d2a" category="list-text">文件</block>
+  <block id="d935525f4850c4638cbf48ae53fb4686" category="paragraph">您目前正在檢視的 Workload Factory 文件。</block>
+  <block id="19111351b69b6b15668130b38b7f6038" category="inline-link">知識庫</block>
+  <block id="436f63b446dba5a418c698d49bd39718" category="list-text"><block ref="436f63b446dba5a418c698d49bd39718" category="inline-link-rx"></block></block>
+  <block id="ba6274b9c9d1f81bb3a648fa289986b8" category="paragraph">搜尋 Workload Factory 知識庫、尋找有助於疑難排解問題的文章。</block>
+  <block id="14526abd8bda5af347775025cd5342cf" category="inline-link">社群</block>
+  <block id="410fdb9caa9c64da2ff3f88f4836960d" category="list-text"><block ref="410fdb9caa9c64da2ff3f88f4836960d" category="inline-link-rx"></block></block>
+  <block id="7faef90df03399696ba9d4815b37171a" category="paragraph">加入 Workload Factory 社群、追蹤後續的討論或建立新的討論。</block>
+  <block id="d88bacf2a9fdcbbc844edcba97c34e30" category="section-title">利用NetApp支援建立案例</block>
+  <block id="82812db645b6ff5e9c2a24ddfb66c8d6" category="paragraph">除了上述的自我支援選項、您也可以在啟動支援之後、與NetApp支援專家合作解決任何問題。</block>
+  <block id="8fece025a1a8fef7018449bf104a2527" category="paragraph-title">開始之前</block>
+  <block id="e2a733504c4088b809813bbb35a3ddfd" category="inline-link-macro">瞭解如何註冊以取得支援</block>
+  <block id="a12ea39ddf1c98adfd7f751299705efa" category="paragraph">若要使用 * 建立案例 * 功能、您必須先註冊以取得支援。 將您的 NetApp 支援網站認證與工作負載工廠登入建立關聯。<block ref="d9fea24984986beabae03291c4b721de" category="inline-link-macro-rx"></block>。</block>
+  <block id="f3a29486bed19a90f2da6d007818b427" category="list-title">步驟</block>
+  <block id="356c88ac4b0ec3f7689cc91f54701fef" category="list-text">在 Workload Factory 主控台的右上角、選取 * 說明 &gt; Support* 。</block>
+  <block id="aadd86a3fadf19221852692c6e4adc2f" category="paragraph">選取此選項會開啟 BlueXP 主控台新的瀏覽器索引標籤、並載入支援儀表板。</block>
+  <block id="08d96fdd1a845d80db99e6e1dffb8bc7" category="list-text">在「*資源*」頁面上、選擇「技術支援」下的其中一個可用選項：</block>
+  <block id="6a1b74969231967ed071d465206b15c7" category="list-text">如果您想與電話上的某人通話、請選取 * 致電 * 。您將會被導向netapp.com上的頁面、其中列出您可以撥打的電話號碼。</block>
+  <block id="d65a2a6fc9caad1867728d4382eeb989" category="list-text">選擇 * 建立案例 * 、與 NetApp 支援專家一起開啟 Ticket ：</block>
+  <block id="d7d0da18fbb8f8f85c1364883fbdf4c7" category="list-text">* 服務 * ：選擇 * 工作負載工廠 * 。</block>
+  <block id="e6f29fb3c7636dc0040600dd0e84bb79" category="list-text">*案例優先順序*：選擇案例的優先順序、可以是低、中、高或嚴重。</block>
+  <block id="835eb4008e97c2a7f69bbb2725285e34" category="paragraph">若要深入瞭解這些優先順序、請將滑鼠游標暫留在欄位名稱旁的資訊圖示上。</block>
+  <block id="0f7d9319c95a8be1492e74601c4b3259" category="list-text">*問題說明*：提供問題的詳細說明、包括任何適用的錯誤訊息或您執行的疑難排解步驟。</block>
+  <block id="002c6f26fb01affb37b8cf3cef7a1fb0" category="list-text">*其他電子郵件地址*：如果您想讓其他人知道此問題、請輸入其他電子郵件地址。</block>
+  <block id="c7f5c1a75acc58c6f004efc0ce1eba09" category="list-text">* 附件（選填） * ：上傳最多五個附件、一次上傳一個。</block>
+  <block id="bfa80e7aaad6da353b431bff3a0e12d6" category="paragraph">每個檔案的附件上限為 25 MB 。支援下列副檔名： txt 、 log 、 pdf 、 jpg/jpeg 、 rtf 、 doc/dox 、 xls/xlsx 和 csv 。</block>
+  <block id="baaf0e61add7d12cf8d12e023d5aef18" category="inline-image-macro">「建立案例」表單的快照、可讓您使用NetApp支援建立案例。</block>
+  <block id="b0c6c3ee60a29925d3f09cd609b79483" category="paragraph"><block ref="b0c6c3ee60a29925d3f09cd609b79483" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="bd965e38a0c9cf27aa1bde099308e23f" category="paragraph-title">完成後</block>
+  <block id="18f487556417bb6d9721a7005ae097c9" category="paragraph">您的支援案例編號會出現快顯視窗。NetApp支援專家將會審查您的案例、並盡快回覆您。</block>
+  <block id="0ff9b4b8684b9e03c9c1e1320935eae3" category="paragraph">如需支援案例的記錄、您可以選取 * 設定 &gt; 時間軸 * 、然後尋找名為「建立支援案例」的動作。最右側的按鈕可讓您展開動作以查看詳細資料。</block>
+  <block id="5c56753585e89a84941bb3a78bc681af" category="paragraph">嘗試建立案例時、可能會遇到下列錯誤訊息：</block>
+  <block id="a30f69ab0ec85d427a3e8835713525bd" category="paragraph">"您無權針對所選服務建立案例"</block>
+  <block id="c7b7a5ae9f37fd7d24e4d641b9186fe9" category="paragraph">此錯誤可能表示、與該帳戶相關聯的NSS帳戶及記錄公司與BlueXP帳戶序號的記錄公司不同（例如960xxxx)或工作環境序號。您可以使用下列其中一個選項尋求協助：</block>
+  <block id="e01df0b4dfd95eba2c59333419e4fac6" category="list-text">使用產品內對談</block>
+  <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-link"></block>
+  <block id="639be990cfca56ab4b63685d8bacd437" category="list-text">請至提交非技術案例<block ref="2298f47e4dad19a3156da7ce6116d9b1" category="inline-link-rx"></block></block>
+  <block id="898e35e1a4bf4b025c3edec879439b08" category="section-title">管理支援案例（預覽）</block>
+  <block id="8b74b053fbeeff5c3b6f4991cb1d028d" category="paragraph">您可以直接從BlueXP檢視及管理作用中和已解決的支援案例。您可以管理與您的NSS帳戶和貴公司相關的個案。</block>
+  <block id="394ef093ad3259b9ff0fe7406f015b83" category="paragraph">案例管理可透過預覽取得。我們計畫改善這項體驗、並在即將推出的版本中加入增強功能。請使用產品內建聊天功能、向我們傳送意見反應。</block>
+  <block id="cf3a2d2c139bf5c9cc87fe714bfff3b1" category="paragraph">請注意下列事項：</block>
+  <block id="5e4e7672ec2ba2b8a763da7f6714e212" category="list-text">頁面頂端的案例管理儀表板提供兩種檢視：</block>
+  <block id="01c3ffea552d74a5ae390b10e71a1f26" category="list-text">左側檢視顯示您所提供的使用者nssc帳戶在過去3個月內開啟的個案總數。</block>
+  <block id="e3b6c09a5686233f72ce1ea60a1eb088" category="list-text">右側檢視顯示過去3個月內、貴公司層級根據您的使用者nssc帳戶所開啟的個案總數。</block>
+  <block id="b19b168cc8a2b8c984465e140256b3a2" category="paragraph">表格中的結果會反映您所選檢視的相關個案。</block>
+  <block id="56dcadeee6b0e5c47a52673f9b5a0bb3" category="list-text">您可以新增或移除感興趣的欄、也可以篩選優先順序和狀態等欄的內容。其他欄則只提供排序功能。</block>
+  <block id="6f936762e1223311f031685422fcd3a4" category="paragraph">如需詳細資料、請參閱下列步驟。</block>
+  <block id="b14929795a61440e9b4ec9f8a4885ae3" category="list-text">在個別案例層級、我們提供更新案例附註或關閉尚未處於「已結案」或「待結案」狀態的案例的功能。</block>
+  <block id="0a4050ac39772e9281a9aba225254bf8" category="list-text">選取 * 個案管理 * 、如果出現提示、請將您的 NSS 帳戶新增至 BlueXP 。</block>
+  <block id="d8ce1865cf1fe3cffd60300b4b86ad63" category="paragraph">「*個案管理*」頁面會顯示與您的BlueXP使用者帳戶相關聯的與NSS帳戶相關的未決個案。這是顯示在「* nssnmanagement *」頁面頂端的相同nss.帳戶。</block>
+  <block id="2ae5ae78bdb2d222f15fd8e89248709c" category="list-text">（可選）修改表格中顯示的資訊：</block>
+  <block id="1d39d3ab518e1e3f16cbafb2a56e1fd9" category="list-text">在 * 組織案例 * 下、選取 * 檢視 * 以檢視與貴公司相關的所有案例。</block>
+  <block id="059e856250b59be3069246887b74a23c" category="list-text">選擇確切的日期範圍或選擇不同的時間範圍、以修改日期範圍。</block>
+  <block id="dfb3764bce2548df4e06357403f9c7d0" category="inline-image-macro">案例管理頁面上方表格上方選項的快照、可讓您選擇確切的日期範圍或過去7天、30天或3個月。</block>
+  <block id="4f7062c5c309a833cf46e4a1a5a5d366" category="paragraph"><block ref="4f7062c5c309a833cf46e4a1a5a5d366" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="a1bb576be9e5a356290f231efb51b3f5" category="list-text">篩選欄的內容。</block>
+  <block id="3753f10a59e21f58b30e3e67d416453e" category="inline-image-macro">「狀態」欄中篩選選項的快照、可讓您篩選出符合特定狀態（例如「作用中」或「已關閉」）的個案。</block>
+  <block id="8f624dee500d9670a27c4404084a7a62" category="paragraph"><block ref="8f624dee500d9670a27c4404084a7a62" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="1c6ea5ef583389e18e7d7bda70beaa71" category="inline-image-macro">出現在表格中的加號圖示</block>
+  <block id="002f1c0a8cf4a68b888010ddef3a7f7e" category="list-text">選取要顯示的欄、然後選擇要顯示的欄、即可變更表格中 <block ref="e55ec8dc42ae68d9326c51261c8a5f4f" category="inline-image-macro-rx" type="image"></block> 顯示的欄。</block>
+  <block id="370b44009f1b82d0b6b178bb80cc62fa" category="inline-image-macro">顯示可在表格中顯示之欄的快照。</block>
+  <block id="72c5c65442a2c44e7f2546b8b4c957df" category="paragraph"><block ref="72c5c65442a2c44e7f2546b8b4c957df" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="ad0ae9ea1f2e8d973a9a0f6bb169f494" category="inline-image-macro">表格最後一欄中出現三個點的圖示</block>
+  <block id="000a1376035909240f559b8ab724030c" category="list-text">選取並選取其中一個可用選項、以管理現有案例 <block ref="54181d1b918b28e5f92545f8b3b4a30c" category="inline-image-macro-rx" type="image"></block> ：</block>
+  <block id="6d9dd74e7709ef802d299966f7898f6b" category="list-text">*檢視案例*：檢視特定案例的完整詳細資料。</block>
+  <block id="8e6b52a532a4fbbfc98dca3ebfa5f1e6" category="list-text">* 更新案例附註 * ：提供問題的其他詳細資料、或選擇 * 上傳檔案 * 最多附加五個檔案。</block>
+  <block id="bb6d5d351525342dd6b3cf4d15b6f298" category="list-text">* 結案案例 * ：提供結案原因的詳細資料、並選取 * 結案案例 * 。</block>
+  <block id="e93217b2f709a398ce3c0fb753beb05f" category="inline-image-macro">螢幕擷取畫面、顯示您在表格最後一欄選取功能表後可以採取的動作。</block>
+  <block id="6f7cf78e14aa346236a87d9541221fb2" category="paragraph"><block ref="6f7cf78e14aa346236a87d9541221fb2" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="22e5a7336ebe77138f0282cedcb069ab" category="inline-link">工作負載工廠</block>
+  <block id="7ffcbeca3b450b8d05f9cf0eedb617f8" category="list-text"><block ref="7ffcbeca3b450b8d05f9cf0eedb617f8" category="inline-link-rx"></block></block>
+  <block id="887f800d53dc2cd5a7894464a6f60a6b" category="inline-link">適用於資料庫的 Workload Factory</block>
+  <block id="7e505d4c691d86e5bd415f9ccb849966" category="list-text"><block ref="7e505d4c691d86e5bd415f9ccb849966" category="inline-link-rx"></block></block>
+  <block id="9591e2d54c998ae1c9d48fd5be7762e9" category="inline-link">GenAI 的工作負載工廠</block>
+  <block id="f38c7416013fc239c3dd3288d40a40c0" category="list-text"><block ref="f38c7416013fc239c3dd3288d40a40c0" category="inline-link-rx"></block></block>
+  <block id="404a5efb62a3a3f22b02593091042608" category="inline-link">VMware 工作負載工廠</block>
+  <block id="9a211183d3fa82368d76fdbab5abdeda" category="list-text"><block ref="9a211183d3fa82368d76fdbab5abdeda" category="inline-link-rx"></block></block>
+  <block id="0b0e252af8897fbe981ec6682d2aa33b" category="doc">支援登錄總覽</block>
+  <block id="996ad73a480311d4f86d6946935389d2" category="paragraph">需要註冊支援、才能獲得工作負載工廠及其儲存解決方案與服務專屬的技術支援。您必須從 BlueXP 主控台註冊以取得支援、該主控台是與 Workload Factory 分開的網路型主控台。</block>
+  <block id="c552970fd4dc8118ba1806da596acad9" category="paragraph">註冊支援並不會啟用雲端供應商檔案服務的 NetApp 支援。如需有關雲端供應商檔案服務、其基礎架構或任何使用服務的解決方案的技術支援、請參閱該產品的 Workload Factory 文件中的「取得說明」。</block>
+  <block id="d7e4bb081bf4ec4814d83edcfbdb8b96" category="paragraph">註冊您的帳戶 ID 支援訂閱（您的 20 位數 960xxxxxxxxx 序號位於 BlueXP 的「支援資源」頁面）、即為您的單一支援訂閱 ID 。每個BlueXP帳戶層級的支援訂閱都必須註冊。</block>
+  <block id="f9e05c2b383e3f11e3b4bebbe8952225" category="paragraph">註冊可提供開啟支援服務單和自動產生個案等功能。如下列所述、將 NetApp 支援網站 （ NSS ）帳戶新增至 BlueXP 即可完成登錄。</block>
+  <block id="856edc4caec68fece6859c4be9360f3c" category="section-title">註冊您的帳戶以取得 NetApp 支援</block>
+  <block id="2d6573b6ae4c51dc24e58109473f2490" category="paragraph">若要註冊以取得支援並啟動支援授權、您帳戶中的一位使用者必須將 NetApp 支援網站帳戶與其 BlueXP 登入建立關聯。您如何註冊NetApp支援取決於您是否已擁有NetApp 支援網站 一個NetApp（NSS）帳戶。</block>
+  <block id="bf4c731c0ee7f60c8018ad8f96828dda" category="section-title">現有的客戶、擁有一個新服務客戶帳戶</block>
+  <block id="7e177185e7eddff33dd8f3aeb7551132" category="paragraph">如果您是擁有NSS帳戶的NetApp客戶、您只需透過BlueXP註冊即可獲得支援。</block>
+  <block id="0307a12e5749f8dd930472ee78f69d2c" category="list-text">在 BlueXP 主控台的右上角、選取「設定」圖示、然後選取 * 認證 * 。</block>
+  <block id="f19ab635e6d5f884a22ee4ce067fdbfd" category="list-text">選取 * 使用者認證 * 。</block>
+  <block id="0c788a722f31f8f0cf36539ee04615cf" category="list-text">選取 * 新增 NSS 認證 * 、然後遵循 NetApp 支援網站 （ NSS ）驗證提示。</block>
+  <block id="cfc5506589d5a4d055e721267d5f0732" category="list-text">若要確認註冊程序是否成功、請選取「說明」圖示、然後選取 * 「支援 * 」。</block>
+  <block id="8add4eb0d3f6ce61d374f3df3ee4eadf" category="paragraph">「 * 資源 * 」頁面應顯示您的帳戶已註冊以取得支援。</block>
+  <block id="10c56875db7a47f791d653e5d5bff0e9" category="inline-image-macro">螢幕擷取畫面會顯示帳戶序號和綠色核取方塊、以及註冊支援的文字。</block>
+  <block id="fa7897454f637026faa3e00ccbfec239" category="paragraph"><block ref="fa7897454f637026faa3e00ccbfec239" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="d9a01bdcfab6f0a10fc126999b4d5988" category="paragraph">請注意、如果其他 BlueXP 使用者尚未將 NetApp 支援網站 帳戶與 BlueXP 登入建立關聯、則不會看到此相同的支援登錄狀態。不過、這並不表示您的 BlueXP 帳戶尚未註冊支援。只要帳戶中有一位使用者已遵循這些步驟、您的帳戶就已登錄。</block>
+  <block id="1ff5aefce774ec72a211f2b3bb10b950" category="section-title">現有客戶、但無NSS.帳戶</block>
+  <block id="bdd862f49d428a850400bcf2f53cdaf2" category="paragraph">如果您是現有的 NetApp 客戶、擁有現有的授權和序號、但沒有 NSS_ 帳戶、則需要建立一個 NSS 帳戶、並將其與您的 BlueXP 登入建立關聯。</block>
+  <block id="5b2b7f628f804bcb786a097c7e45aa41" category="inline-link">《使用者登錄表》NetApp 支援網站</block>
+  <block id="0c4a8b62da9473fbd5401273c4f85ee0" category="list-text">完成建立 NetApp 支援網站帳戶<block ref="041bcb6d9bdf91f7d6ac92ae3a196e12" category="inline-link-rx"></block></block>
+  <block id="d61c9f72493817776f392db42ac446a2" category="list-text">請務必選擇適當的使用者層級、通常為* NetApp客戶/終端使用者*。</block>
+  <block id="5226d4ec1f4f81b740cbbd27635b441f" category="list-text">請務必複製上述序號欄位使用的BlueXP帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="0499bba105f8a891a2c671f1ba99dd34" category="list-text">完成下的步驟、將新的 NSS 帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e9b1f53d6cabb3394833a4e102eb6a69" category="section-title">NetApp全新推出</block>
+  <block id="c20c107d0d4eef6351660f3590324232" category="paragraph">如果您是NetApp的新客戶、而且您沒有新的NSS帳戶、請依照下列每個步驟操作。</block>
+  <block id="f5d7029ed18f998c0a9d780b2554e538" category="list-text">從「支援資源」頁面找到您的帳戶 ID 序號。</block>
+  <block id="b50f0a46135bcb7083b1f2f82032fc26" category="inline-image-macro">「說明」功能表的快照、其中「支援」是第一個列出的選項</block>
+  <block id="55adf589d087b17fca134b34f65498ed" category="paragraph"><block ref="55adf589d087b17fca134b34f65498ed" category="inline-image-macro-rx" type="image"></block></block>
+  <block id="dd50e314c18933734174c1156dd9237f" category="inline-link">NetApp的支援註冊網站</block>
+  <block id="78f94e749b89d69dcbf3baff21ccb958" category="list-text">瀏覽<block ref="e1c4be66250fd76d5c52bfe2cb7daee2" category="inline-link-rx"></block> 並選取 * 我不是 NetApp 的註冊客戶 * 。</block>
+  <block id="d4f633ef130727b2776fa7f45024ca7d" category="list-text">填寫必填欄位（紅色星號）。</block>
+  <block id="1128fc8d5ec64880f4d49337ed798d31" category="list-text">在*產品系列*欄位中、選取* Cloud Manager*、然後選取適用的帳單供應商。</block>
+  <block id="50a1dc01b7312307c34a888071586955" category="list-text">複製上述步驟2的帳戶序號、完成安全性檢查、然後確認您已閱讀NetApp的全球資料隱私權政策。</block>
+  <block id="3a24c87c9971d2011b4df223718f84b4" category="paragraph">系統會立即將電子郵件傳送至提供的信箱、以完成此安全交易。如果驗證電子郵件在幾分鐘內未送達、請務必檢查您的垃圾郵件資料夾。</block>
+  <block id="03413baeca1ff7222737d8ce299bd4e8" category="list-text">確認電子郵件中的行動。</block>
+  <block id="201080500e946070a2e4873042507c77" category="paragraph">確認將您的申請提交給NetApp、並建議您建立NetApp 支援網站 一個申請表。</block>
+  <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
+  <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
+  <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">擁有 NetApp 支援網站帳戶後、請完成下的步驟、將帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
+  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory for AWS 是功能強大的生命週期管理平台、可協助您使用 Amazon FSX for NetApp ONTAP 最佳化工作負載。依工作負載類型瀏覽文件、或使用搜尋列在 Workload Factory 文件的任何位置尋找內容。</block>
+  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">BlueXP Workload Factory for AWS 文件</block>
+  <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
+  <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
+  <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定與管理</block>
+  <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
+  <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存設備</block>
+  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">瞭解如何開始使用 Workload Factory 、管理認證、以及使用 Codebox 進行自動化。</block>
+  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX for NetApp ONTAP 產品</block>
+  <block id="b02ec41574109950953b880723bdaffc" category="sidebar">部署及管理適用於 ONTAP 檔案系統的 FSX 、以將 ONTAP 的完整功能作為原生 AWS 託管服務使用。</block>
+  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以程式設計方式管理 Workload Factory 資源。</block>
+  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">資料庫工作負載</block>
+  <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。</block>
+  <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
+  <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">將適用於 ONTAP 檔案系統的 FSX 資料與 MLOps 平台和 GenAI 基礎模型整合、以建立功能性的聊天機器人程式。</block>
+  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware 工作負載</block>
+  <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。</block>
+  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文件</block>
+</blocks>

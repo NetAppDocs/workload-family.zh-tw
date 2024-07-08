@@ -1,0 +1,50 @@
+---
+product-family:
+  title: BlueXP Workload Factory for AWS 文件
+  lead: BlueXP Workload Factory for AWS 是功能強大的生命週期管理平台、可協助您使用 Amazon FSX for NetApp
+    ONTAP 最佳化工作負載。依工作負載類型瀏覽文件、或使用搜尋列在 Workload Factory 文件的任何位置尋找內容。
+  summary: BlueXP Workload Factory for AWS 是功能強大的生命週期管理平台、可協助您使用 Amazon FSX for NetApp
+    ONTAP 最佳化工作負載。依工作負載類型瀏覽文件、或使用搜尋列在 Workload Factory 文件的任何位置尋找內容。
+  sidebarlinks:
+  - title: 全部
+    tags: all
+    class: active
+  - title: API
+    tags: api
+  - title: 設定與管理
+    tags: admin
+  - title: 工作負載
+    tags: workload
+  - title: 儲存設備
+    tags: storage
+  tiles:
+  - title: 設定與管理
+    icon: "./media/icon-admin.png"
+    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    summary: 瞭解如何開始使用 Workload Factory 、管理認證、以及使用 Codebox 進行自動化。
+    tags: all,admin
+  - title: Amazon FSX for NetApp ONTAP 產品
+    icon: "./media/icon-storage.png"
+    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    summary: 部署及管理適用於 ONTAP 檔案系統的 FSX 、以將 ONTAP 的完整功能作為原生 AWS 託管服務使用。
+    tags: all,storage
+  - title: API
+    icon: "./media/icon-api.png"
+    url: https://console.workloads.netapp.com/api-doc
+    summary: 以程式設計方式管理 Workload Factory 資源。
+    tags: all,api
+  - title: 資料庫工作負載
+    icon: "./media/icon-database.png"
+    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    summary: 使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。
+    tags: all,workload
+  - title: GenAI
+    icon: "./media/icon-ai.png"
+    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    summary: 將適用於 ONTAP 檔案系統的 FSX 資料與 MLOps 平台和 GenAI 基礎模型整合、以建立功能性的聊天機器人程式。
+    tags: all,workload
+  - title: VMware 工作負載
+    icon: "./media/icon-vmware.png"
+    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    summary: 簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。
+    tags: all,workload
