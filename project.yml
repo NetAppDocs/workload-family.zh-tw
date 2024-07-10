@@ -2,6 +2,7 @@
 settings:
   name: BlueXP Workload Factory for AWS
   platform: cloud
+  search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai
   internal:
     pdf_enabled: false
   prod:
