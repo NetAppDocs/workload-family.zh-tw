@@ -143,4 +143,6 @@
   <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware 工作負載</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文件</block>
+  <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
+  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">瞭解所有工作負載工廠的新功能。</block>
 </blocks>

@@ -23,6 +23,11 @@ product-family:
     url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
     summary: 瞭解如何開始使用 Workload Factory 、管理認證、以及使用 Codebox 進行自動化。
     tags: all,admin
+  - title: 版本資訊
+    icon: "./media/icon-docs.png"
+    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    summary: 瞭解所有工作負載工廠的新功能。
+    tags: all
   - title: Amazon FSX for NetApp ONTAP 產品
     icon: "./media/icon-storage.png"
     url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
