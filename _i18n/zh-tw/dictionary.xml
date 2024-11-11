@@ -125,24 +125,23 @@
   <block id="cc8b0535948da368f832027c19b7f853" category="list-text">請務必複製上述序號欄位使用的帳戶序號（960xxxx）。這將加速帳戶處理。</block>
   <block id="684375e279a289295b72a006d93e2c4c" category="paragraph">在此過程中、NetApp應與您聯絡。這是新使用者的一次性就職練習。</block>
   <block id="5cdee814e2d9ba3490a8f16d00c65759" category="paragraph">擁有 NetApp 支援網站帳戶後、請完成下的步驟、將帳戶與 BlueXP 登入建立關聯 <block ref="2f3aba04ec49ee5f0573a6c80a1b9df2" category="inline-xref-macro-rx"></block>。</block>
-  <block id="e85dca3a461d7aa458cd568c9be40cff" category="sidebar">BlueXP Workload Factory for AWS 是功能強大的生命週期管理平台、可協助您使用 Amazon FSX for NetApp ONTAP 最佳化工作負載。依工作負載類型瀏覽文件、或使用搜尋列在 Workload Factory 文件的任何位置尋找內容。</block>
-  <block id="4ad47d4476ebe4f0449905682cd3e009" category="sidebar">BlueXP Workload Factory for AWS 文件</block>
   <block id="b1c94ca2fbc3e78fc30069c8d0f01680" category="sidebar">全部</block>
   <block id="db974238714ca8de634a7ce1d083a14f" category="sidebar">API</block>
   <block id="bb50e2459e4e016aa4b14a56adb2358f" category="sidebar">設定與管理</block>
   <block id="35084d885dea7b061e6894c1cf3036d9" category="sidebar">工作負載</block>
   <block id="8c4aa541ee911e8d80451ef8cc304806" category="sidebar">儲存設備</block>
-  <block id="4e09e2bc58d401c44c1cac7e05658640" category="sidebar">瞭解如何開始使用 Workload Factory 、管理認證、以及使用 Codebox 進行自動化。</block>
-  <block id="4d82a1ec1af02725042c8c785564ee7a" category="sidebar">Amazon FSX for NetApp ONTAP 產品</block>
   <block id="b02ec41574109950953b880723bdaffc" category="sidebar">部署及管理適用於 ONTAP 檔案系統的 FSX 、以將 ONTAP 的完整功能作為原生 AWS 託管服務使用。</block>
-  <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以程式設計方式管理 Workload Factory 資源。</block>
-  <block id="38bd169945a371832b0b65c9086b1792" category="sidebar">資料庫工作負載</block>
   <block id="7200d2fe60732fcead16bd936858301f" category="sidebar">使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。</block>
   <block id="cccae24691c5ff7191f1ffebe4352285" category="sidebar">GenAI</block>
   <block id="2b810e335ed1777d9d90e638c21588bf" category="sidebar">將適用於 ONTAP 檔案系統的 FSX 資料與 MLOps 平台和 GenAI 基礎模型整合、以建立功能性的聊天機器人程式。</block>
-  <block id="a76e64a0fbf98a083080351e4cb67566" category="sidebar">VMware 工作負載</block>
   <block id="1a61f87dd9021f3f5868a4a4418a6116" category="sidebar">簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。</block>
-  <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文件</block>
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
-  <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">瞭解所有工作負載工廠的新功能。</block>
+  <block id="deb20d45d08927a387c5a07ceb73a4fd" category="sidebar">BlueXP  工作負載工廠是一款功能強大的生命週期管理平台，專為協助您使用 Amazon FSX for NetApp ONTAP 最佳化工作負載而設計。依工作負載類型瀏覽文件，或使用搜尋列在工作負載原廠文件的任何位置尋找內容。</block>
+  <block id="a4edad3205a214cb4964ba36c07bc827" category="sidebar">BlueXP  工作負載原廠文件</block>
+  <block id="4e5efe05038ddfebbc5f4ba036445445" category="sidebar">瞭解如何開始使用工作負載工廠，管理認證，以及使用 Codebox 進行自動化。</block>
+  <block id="a4bf8b7b035c6217aa21804a57d23c82" category="sidebar">瞭解所有工作負載工廠的新功能。</block>
+  <block id="1c54637cbb61ce67644ba6cd76485851" category="sidebar">以程式設計方式管理工作負載工廠資源。</block>
+  <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">資料庫</block>
+  <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
+  <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">所有工作負載原廠文件</block>
 </blocks>
