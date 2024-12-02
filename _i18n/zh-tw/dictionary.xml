@@ -138,4 +138,6 @@
   <block id="bd5d38b22c1d5e199f1a1bcf5ea76eb8" category="sidebar">所有工作負載原廠文件</block>
   <block id="428b0b39be2352757edeb5f9f12a7bdd" category="inline-link">BlueXP  工作負載工廠</block>
   <block id="7cf449620aa459bc5c449db69b07e507" category="paragraph"><block ref="7cf449620aa459bc5c449db69b07e507" category="inline-link-rx"></block></block>
+  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">建構者</block>
+  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">透過與版本控制系統和 CI/CD 流程即時整合複製，簡化軟體版本使用和存取，節省時間和資源。</block>
 </blocks>
