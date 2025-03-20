@@ -18,12 +18,12 @@ product-family:
   tiles:
   - title: 設定與管理
     icon: "./media/icon-admin.png"
-    url: https://docs.netapp.com/us-en/workload-setup-admin/index.html
+    url: "../workload-setup-admin/index.html"
     summary: 瞭解如何開始使用工作負載工廠，管理認證，以及使用 Codebox 進行自動化。
     tags: all,admin
   - title: 版本資訊
     icon: "./media/icon-docs.png"
-    url: https://docs.netapp.com/us-en/workload-relnotes/whats-new.html
+    url: "../workload-relnotes/whats-new.html"
     summary: 瞭解所有工作負載工廠的新功能。
     tags: all
   - title: API
@@ -33,26 +33,26 @@ product-family:
     tags: all,api
   - title: 建構者
     icon: "./media/icon-builders.png"
-    url: https://docs.netapp.com/us-en/workload-builders/index.html
+    url: "../workload-builders/index.html"
     summary: 透過與版本控制系統和 CI/CD 流程即時整合複製，簡化軟體版本使用和存取，節省時間和資源。
     tags: all,workload
   - title: 資料庫
     icon: "./media/icon-database.png"
-    url: https://docs.netapp.com/us-en/workload-databases/index.html
+    url: "../workload-databases/index.html"
     summary: 使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。
     tags: all,workload
   - title: GenAI
     icon: "./media/icon-ai.png"
-    url: https://docs.netapp.com/us-en/workload-genai/index.html
+    url: "../workload-genai/index.html"
     summary: 將適用於 ONTAP 檔案系統的 FSX 資料與 MLOps 平台和 GenAI 基礎模型整合、以建立功能性的聊天機器人程式。
     tags: all,workload
   - title: 儲存設備
     icon: "./media/icon-storage.png"
-    url: https://docs.netapp.com/us-en/workload-fsx-ontap/index.html
+    url: "../workload-fsx-ontap/index.html"
     summary: 部署及管理適用於 ONTAP 檔案系統的 FSX 、以將 ONTAP 的完整功能作為原生 AWS 託管服務使用。
     tags: all,storage
   - title: VMware
     icon: "./media/icon-vmware.png"
-    url: https://docs.netapp.com/us-en/workload-vmware/index.html
+    url: "../workload-vmware/index.html"
     summary: 簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。
     tags: all,workload
