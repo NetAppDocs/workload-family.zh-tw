@@ -2,7 +2,7 @@
 settings:
   name: BlueXP workload factory
   platform: cloud
-  search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-relnotes
+  search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-builders,workload-relnotes
   internal:
     pdf_enabled: false
   prod:
