@@ -8,7 +8,7 @@ settings:
   prod:
     pdf_enabled: false
     harmony_enabled: false
-    lipi_enabled: false
+    lipi_enabled: true
   langs: zh-tw,us-en,de-de,es-es,fr-fr,it-it,pt-br,ja-jp,ko-kr,zh-cn
 sidebar:
   entries:
