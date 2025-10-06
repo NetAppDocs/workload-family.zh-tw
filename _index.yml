@@ -1,8 +1,8 @@
 ---
 product-family:
-  title: BlueXP  工作負載原廠文件
-  lead: BlueXP  工作負載工廠是一款功能強大的生命週期管理平台，專為協助您使用 Amazon FSX for NetApp ONTAP 最佳化工作負載而設計。依工作負載類型瀏覽文件，或使用搜尋列在工作負載原廠文件的任何位置尋找內容。
-  summary: BlueXP  工作負載工廠是一款功能強大的生命週期管理平台，專為協助您使用 Amazon FSX for NetApp ONTAP 最佳化工作負載而設計。依工作負載類型瀏覽文件，或使用搜尋列在工作負載原廠文件的任何位置尋找內容。
+  title: NetApp工作負載工廠文檔
+  lead: NetApp Workload Factory 是一個強大的生命週期管理平台，旨在幫助您使用Amazon FSx for NetApp ONTAP優化工作負載。依工作負載類型瀏覽文件或使用搜尋列在工作負載工廠文件中的任何位置尋找內容。
+  summary: NetApp Workload Factory 是一個強大的生命週期管理平台，旨在幫助您使用Amazon FSx for NetApp ONTAP優化工作負載。依工作負載類型瀏覽文件或使用搜尋列在工作負載工廠文件中的任何位置尋找內容。
   sidebarlinks:
   - title: 全部
     tags: all
@@ -19,17 +19,17 @@ product-family:
   - title: 設定與管理
     icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
-    summary: 瞭解如何開始使用工作負載工廠，管理認證，以及使用 Codebox 進行自動化。
+    summary: 了解如何開始使用 Workload Factory、管理憑證以及使用 Codebox 進行自動化。
     tags: all,admin
   - title: 版本資訊
     icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
-    summary: 瞭解所有工作負載工廠的新功能。
+    summary: 了解 Workload Factory 的所有新功能。
     tags: all
   - title: API
     icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
-    summary: 以程式設計方式管理工作負載工廠資源。
+    summary: 以程式設計方式管理您的工作負載工廠資源。
     tags: all,api
   - title: 建構者
     icon: "./media/icon-builders.png"
