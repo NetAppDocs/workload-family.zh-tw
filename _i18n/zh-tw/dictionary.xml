@@ -105,8 +105,6 @@
   <block id="7d0ee6fed10d3d4e5c9ee496729ab519" category="sidebar">版本資訊</block>
   <block id="ea2ef9b0d095bf991f4973633b485340" category="sidebar">資料庫</block>
   <block id="56079badd056a19303cc26e6a4fcc7e0" category="sidebar">VMware</block>
-  <block id="a7aabedfa51c621af1c82ac19da57a93" category="sidebar">建構者</block>
-  <block id="4dbca6300d097acc1ed4450a1e0d70d7" category="sidebar">透過與版本控制系統和 CI/CD 流程即時整合複製，簡化軟體版本使用和存取，節省時間和資源。</block>
   <block id="cfd98e00a6e308c04ab9f76a854b6989" category="doc">追蹤及監控作業</block>
   <block id="bbe48fb854ea022537208eeeff822f91" category="paragraph-title">關於這項工作</block>
   <block id="4a60367cb1382179b571e891381eaf8d" category="paragraph">Tracker 中有幾個動作可供使用。您可以依時間範圍（過去 24 小時， 7 天， 14 天或 30 天），工作負載，狀態和使用者來篩選工作；使用搜尋功能尋找工作；並將工作表下載為 CSV 檔案。您可以隨時重新整理 Tracker ，快速重試失敗的作業或編輯失敗作業的參數，然後再試一次。</block>
@@ -186,4 +184,6 @@
   <block id="735eefa9fde7ae8ac32b7982c22015cd" category="sidebar">了解 Workload Factory 的所有新功能。</block>
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以程式設計方式管理您的工作負載工廠資源。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文檔</block>
+  <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">探索性資料分析</block>
+  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">透過自動化儲存參數管理，優化跨多個檔案系統的 FSx for ONTAP ，以提高效能並降低營運成本。</block>
 </blocks>
