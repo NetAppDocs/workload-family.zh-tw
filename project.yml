@@ -1,7 +1,7 @@
 ---
 settings:
   name: NetApp Workload Factory
-  search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-builders,workload-relnotes
+  search: workload-setup-admin,workload-fsx-ontap,workload-databases,workload-vmware,workload-genai,workload-eda,workload-relnotes
   internal:
     pdf_enabled: false
   prod:

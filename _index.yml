@@ -33,8 +33,8 @@ product-family:
     tags: all,api
   - title: 探索性資料分析
     icon: "./media/icon-builders.png"
-    url: "../workload-builders/index.html"
-    summary: 透過自動化儲存參數管理，優化跨多個檔案系統的 FSx for ONTAP ，以提高效能並降低營運成本。
+    url: "../workload-eda/index.html"
+    summary: 透過自動化儲存管理，優化 FSx for ONTAP在多個檔案系統上的效能和成本。
     tags: all,workload
   - title: 資料庫
     icon: "./media/icon-database.png"

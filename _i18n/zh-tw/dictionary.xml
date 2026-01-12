@@ -185,5 +185,5 @@
   <block id="99d8e052ca4a944dc122d9aeba599a75" category="sidebar">以程式設計方式管理您的工作負載工廠資源。</block>
   <block id="3a6525a130f3a3659951bc80b52a42e1" category="sidebar">所有 Workload Factory 文檔</block>
   <block id="81f1b99be9951f3725aa3dd62766099e" category="sidebar">探索性資料分析</block>
-  <block id="d9c8047218c7f33bcf7a55b46924a47b" category="sidebar">透過自動化儲存參數管理，優化跨多個檔案系統的 FSx for ONTAP ，以提高效能並降低營運成本。</block>
+  <block id="d783a4bda63a5d10b5fdfe91d9c38e49" category="sidebar">透過自動化儲存管理，優化 FSx for ONTAP在多個檔案系統上的效能和成本。</block>
 </blocks>
