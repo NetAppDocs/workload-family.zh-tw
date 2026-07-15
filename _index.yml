@@ -41,11 +41,6 @@ product-family:
     url: "../workload-databases/index.html"
     summary: 使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。
     tags: all,workload
-  - title: GenAI
-    icon: "./media/icon-ai.png"
-    url: "../workload-genai/index.html"
-    summary: 將適用於 ONTAP 檔案系統的 FSX 資料與 MLOps 平台和 GenAI 基礎模型整合、以建立功能性的聊天機器人程式。
-    tags: all,workload
   - title: 儲存設備
     icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
