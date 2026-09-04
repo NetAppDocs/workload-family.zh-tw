@@ -17,37 +17,30 @@ product-family:
     tags: storage
   tiles:
   - title: 設定與管理
-    icon: "./media/icon-admin.png"
     url: "../workload-setup-admin/index.html"
     summary: 了解如何開始使用 Workload Factory、管理憑證以及使用 Codebox 進行自動化。
     tags: all,admin
   - title: 版本資訊
-    icon: "./media/icon-docs.png"
     url: "../workload-relnotes/whats-new.html"
     summary: 了解 Workload Factory 的所有新功能。
     tags: all
   - title: API
-    icon: "./media/icon-api.png"
     url: https://console.workloads.netapp.com/api-doc
     summary: 以程式設計方式管理您的工作負載工廠資源。
     tags: all,api
   - title: 探索性資料分析
-    icon: "./media/icon-builders.png"
     url: "../workload-eda/index.html"
     summary: 透過自動化儲存管理，優化 FSx for ONTAP在多個檔案系統上的效能和成本。
     tags: all,workload
   - title: 資料庫
-    icon: "./media/icon-database.png"
     url: "../workload-databases/index.html"
     summary: 使用適用於 ONTAP 檔案系統的 FSX 做為外部資料存放區、以內建最佳實務做法來部署資料庫端對端。
     tags: all,workload
   - title: 儲存設備
-    icon: "./media/icon-storage.png"
     url: "../workload-fsx-ontap/index.html"
     summary: 部署及管理適用於 ONTAP 檔案系統的 FSX 、以將 ONTAP 的完整功能作為原生 AWS 託管服務使用。
     tags: all,storage
   - title: VMware
-    icon: "./media/icon-vmware.png"
     url: "../workload-vmware/index.html"
     summary: 簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。
     tags: all,workload
