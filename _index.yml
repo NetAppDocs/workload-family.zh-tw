@@ -44,3 +44,7 @@ product-family:
     url: "../workload-vmware/index.html"
     summary: 簡化從內部部署 vSphere 環境移轉至 AWS 上的 VMware Cloud 、並將 ONTAP 檔案系統的自訂 FSX 作為外部資料存放區。
     tags: all,workload
+  - title: 資訊安全性
+    url: "../workload-infosec/index.html"
+    summary: 了解 Workload Factory 的安全功能，以及如何評估和就職平台以支援企業安全性要求。
+    tags: all,workload
